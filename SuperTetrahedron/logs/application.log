@@ -1,0 +1,193 @@
+2019-02-27 12:58:34 [main] WARN  epam.task.parser.impl.DataParserImpl - Incorrect input data:0.577 0 1.634wwe; 0 -1 0; 1.732 0 0; 0 1 0
+2019-02-27 12:58:35 [main] WARN  com.epam.task.reader.TxtReader - File:resources\another.txt  is not exist or empty
+2019-02-27 12:58:35 [main] INFO  com.epam.task.reader.TxtReader - File:src\main\resources\dataFile.txt was successfully read
+2019-02-27 13:00:31 [main] INFO  com.epam.task.reader.TxtReader - File:src\main\resources\shortData.txt was successfully read
+2019-02-27 13:00:31 [main] INFO  epam.task.parser.impl.DataParserImpl - Parse was successful complete
+2019-02-27 13:00:31 [main] WARN  epam.task.parser.impl.DataParserImpl - Incorrect input data:0.94 0 poi; 0 -1 14; 1.732 4 0; 3 1 21;
+2019-02-27 13:00:31 [main] WARN  com.epam.task.creator.Creator - Incorrect data:0.94 0 poi; 0 -1 14; 1.732 4 0; 3 1 21;
+2019-02-27 13:00:31 [main] INFO  epam.task.parser.impl.DataParserImpl - Parse was successful complete
+2019-02-27 13:00:31 [main] INFO  com.epam.task.creator.Creator - Tetrahedrons was created.
+2019-02-27 13:00:31 [main] INFO  epam.task.parser.impl.DataParserImpl - Parse was successful complete
+2019-02-27 13:00:31 [main] WARN  epam.task.parser.impl.DataParserImpl - Incorrect input data:0.577 0 1.634wwe; 0 -1 0; 1.732 0 0; 0 1 0
+2019-02-27 13:00:31 [main] WARN  com.epam.task.reader.TxtReader - File:resources\another.txt  is not exist or empty
+2019-02-27 13:00:31 [main] INFO  com.epam.task.reader.TxtReader - File:src\main\resources\dataFile.txt was successfully read
+2019-02-27 13:04:51 [main] INFO  com.epam.task.reader.TxtReader - File:src\main\resources\shortData.txt was successfully read
+2019-02-27 13:04:51 [main] INFO  epam.task.parser.impl.DataParserImpl - Parse was successful complete
+2019-02-27 13:04:51 [main] WARN  epam.task.parser.impl.DataParserImpl - Incorrect input data:0.94 0 poi; 0 -1 14; 1.732 4 0; 3 1 21;
+2019-02-27 13:04:51 [main] WARN  com.epam.task.creator.Creator - Incorrect data:0.94 0 poi; 0 -1 14; 1.732 4 0; 3 1 21;
+2019-02-27 13:04:51 [main] INFO  epam.task.parser.impl.DataParserImpl - Parse was successful complete
+2019-02-27 13:04:51 [main] INFO  com.epam.task.creator.Creator - Tetrahedrons was created.
+2019-02-27 13:04:51 [main] INFO  epam.task.parser.impl.DataParserImpl - Parse was successful complete
+2019-02-27 13:04:51 [main] WARN  epam.task.parser.impl.DataParserImpl - Incorrect input data:0.577 0 1.634wwe; 0 -1 0; 1.732 0 0; 0 1 0
+2019-02-27 13:04:52 [main] WARN  com.epam.task.reader.TxtReader - File:resources\another.txt  is not exist or empty
+2019-02-27 13:04:52 [main] INFO  com.epam.task.reader.TxtReader - File:src\main\resources\dataFile.txt was successfully read
+2019-02-27 13:12:17 [main] INFO  com.epam.task.reader.TxtReader - File:src\main\resources\shortData.txt was successfully read
+2019-02-27 13:12:17 [main] INFO  epam.task.parser.impl.DataParserImpl - Parse was successful complete
+2019-02-27 13:12:17 [main] WARN  epam.task.parser.impl.DataParserImpl - Incorrect input data:0.94 0 poi; 0 -1 14; 1.732 4 0; 3 1 21;
+2019-02-27 13:12:17 [main] WARN  com.epam.task.creator.Creator - Incorrect data:0.94 0 poi; 0 -1 14; 1.732 4 0; 3 1 21;
+2019-02-27 13:12:17 [main] INFO  epam.task.parser.impl.DataParserImpl - Parse was successful complete
+2019-02-27 13:12:17 [main] INFO  com.epam.task.creator.Creator - Tetrahedrons was created.
+2019-02-27 13:12:17 [main] INFO  epam.task.parser.impl.DataParserImpl - Parse was successful complete
+2019-02-27 13:12:17 [main] WARN  epam.task.parser.impl.DataParserImpl - Incorrect input data:0.577 0 1.634wwe; 0 -1 0; 1.732 0 0; 0 1 0
+2019-02-27 13:12:17 [main] WARN  com.epam.task.reader.TxtReader - File:resources\another.txt  is not exist or empty
+2019-02-27 13:12:17 [main] INFO  com.epam.task.reader.TxtReader - File:src\main\resources\dataFile.txt was successfully read
+2019-02-27 13:13:55 [main] INFO  com.epam.task.reader.TxtReader - File:src\main\resources\shortData.txt was successfully read
+2019-02-27 13:13:55 [main] INFO  epam.task.parser.impl.DataParserImpl - Parse was successful complete
+2019-02-27 13:13:55 [main] WARN  epam.task.parser.impl.DataParserImpl - Incorrect input data:0.94 0 poi; 0 -1 14; 1.732 4 0; 3 1 21;
+2019-02-27 13:13:55 [main] WARN  com.epam.task.creator.Creator - Incorrect data:0.94 0 poi; 0 -1 14; 1.732 4 0; 3 1 21;
+2019-02-27 13:13:55 [main] INFO  epam.task.parser.impl.DataParserImpl - Parse was successful complete
+2019-02-27 13:13:55 [main] INFO  com.epam.task.creator.Creator - Tetrahedrons was created.
+2019-02-27 13:13:55 [main] INFO  epam.task.parser.impl.DataParserImpl - Parse was successful complete
+2019-02-27 13:13:55 [main] WARN  epam.task.parser.impl.DataParserImpl - Incorrect input data:0.577 0 1.634wwe; 0 -1 0; 1.732 0 0; 0 1 0
+2019-02-27 13:13:56 [main] WARN  com.epam.task.reader.TxtReader - File:resources\another.txt  is not exist or empty
+2019-02-27 13:13:56 [main] INFO  com.epam.task.reader.TxtReader - File:src\main\resources\dataFile.txt was successfully read
+2019-02-27 13:14:30 [main] INFO  com.epam.task.reader.TxtReader - File:src\main\resources\shortData.txt was successfully read
+2019-02-27 13:14:30 [main] INFO  epam.task.parser.impl.DataParserImpl - Parse was successful complete
+2019-02-27 13:14:30 [main] WARN  epam.task.parser.impl.DataParserImpl - Incorrect input data:0.94 0 poi; 0 -1 14; 1.732 4 0; 3 1 21;
+2019-02-27 13:14:30 [main] WARN  com.epam.task.creator.Creator - Incorrect data:0.94 0 poi; 0 -1 14; 1.732 4 0; 3 1 21;
+2019-02-27 13:14:30 [main] INFO  epam.task.parser.impl.DataParserImpl - Parse was successful complete
+2019-02-27 13:14:30 [main] INFO  com.epam.task.creator.Creator - Tetrahedrons was created.
+2019-02-27 13:14:30 [main] INFO  epam.task.parser.impl.DataParserImpl - Parse was successful complete
+2019-02-27 13:14:30 [main] WARN  epam.task.parser.impl.DataParserImpl - Incorrect input data:0.577 0 1.634wwe; 0 -1 0; 1.732 0 0; 0 1 0
+2019-02-27 13:14:31 [main] WARN  com.epam.task.reader.TxtReader - File:resources\another.txt  is not exist or empty
+2019-02-27 13:14:31 [main] INFO  com.epam.task.reader.TxtReader - File:src\main\resources\dataFile.txt was successfully read
+2019-02-27 13:16:01 [main] INFO  com.epam.task.reader.TxtReader - File:src\main\resources\shortData.txt was successfully read
+2019-02-27 13:16:01 [main] INFO  epam.task.parser.impl.DataParserImpl - Parse was successful complete
+2019-02-27 13:16:01 [main] WARN  epam.task.parser.impl.DataParserImpl - Incorrect input data:0.94 0 poi; 0 -1 14; 1.732 4 0; 3 1 21;
+2019-02-27 13:16:01 [main] WARN  com.epam.task.creator.Creator - Incorrect data:0.94 0 poi; 0 -1 14; 1.732 4 0; 3 1 21;
+2019-02-27 13:16:01 [main] INFO  epam.task.parser.impl.DataParserImpl - Parse was successful complete
+2019-02-27 13:16:01 [main] INFO  com.epam.task.creator.Creator - Tetrahedrons was created.
+2019-02-27 13:16:01 [main] INFO  epam.task.parser.impl.DataParserImpl - Parse was successful complete
+2019-02-27 13:16:01 [main] WARN  epam.task.parser.impl.DataParserImpl - Incorrect input data:0.577 0 1.634wwe; 0 -1 0; 1.732 0 0; 0 1 0
+2019-02-27 13:16:01 [main] WARN  com.epam.task.reader.TxtReader - File:resources\another.txt  is not exist or empty
+2019-02-27 13:16:01 [main] INFO  com.epam.task.reader.TxtReader - File:src\main\resources\dataFile.txt was successfully read
+2019-02-27 13:16:44 [main] INFO  com.epam.task.reader.TxtReader - File:src\main\resources\shortData.txt was successfully read
+2019-02-27 13:16:44 [main] INFO  epam.task.parser.impl.DataParserImpl - Parse was successful complete
+2019-02-27 13:16:44 [main] WARN  epam.task.parser.impl.DataParserImpl - Incorrect input data:0.94 0 poi; 0 -1 14; 1.732 4 0; 3 1 21;
+2019-02-27 13:16:44 [main] WARN  com.epam.task.creator.Creator - Incorrect data:0.94 0 poi; 0 -1 14; 1.732 4 0; 3 1 21;
+2019-02-27 13:16:44 [main] INFO  epam.task.parser.impl.DataParserImpl - Parse was successful complete
+2019-02-27 13:16:44 [main] INFO  com.epam.task.creator.Creator - Tetrahedrons was created.
+2019-02-27 13:16:44 [main] INFO  epam.task.parser.impl.DataParserImpl - Parse was successful complete
+2019-02-27 13:16:44 [main] WARN  epam.task.parser.impl.DataParserImpl - Incorrect input data:0.577 0 1.634wwe; 0 -1 0; 1.732 0 0; 0 1 0
+2019-02-27 13:16:44 [main] WARN  com.epam.task.reader.TxtReader - File:resources\another.txt  is not exist or empty
+2019-02-27 13:16:44 [main] INFO  com.epam.task.reader.TxtReader - File:src\main\resources\dataFile.txt was successfully read
+2019-02-27 13:26:42 [main] INFO  com.epam.task.reader.TxtReader - File:src\main\resources\shortData.txt was successfully read
+2019-02-27 13:26:42 [main] INFO  epam.task.parser.impl.DataParserImpl - Parse was successful complete
+2019-02-27 13:26:42 [main] WARN  epam.task.parser.impl.DataParserImpl - Incorrect input data:0.94 0 poi; 0 -1 14; 1.732 4 0; 3 1 21;
+2019-02-27 13:26:42 [main] WARN  com.epam.task.creator.Creator - Incorrect data:0.94 0 poi; 0 -1 14; 1.732 4 0; 3 1 21;
+2019-02-27 13:26:42 [main] INFO  epam.task.parser.impl.DataParserImpl - Parse was successful complete
+2019-02-27 13:26:42 [main] INFO  com.epam.task.creator.Creator - Tetrahedrons was created.
+2019-02-27 13:26:42 [main] INFO  epam.task.parser.impl.DataParserImpl - Parse was successful complete
+2019-02-27 13:26:42 [main] WARN  epam.task.parser.impl.DataParserImpl - Incorrect input data:0.577 0 1.634wwe; 0 -1 0; 1.732 0 0; 0 1 0
+2019-02-27 13:26:42 [main] WARN  com.epam.task.reader.TxtReader - File:resources\another.txt  is not exist or empty
+2019-02-27 13:26:42 [main] INFO  com.epam.task.reader.TxtReader - File:src\main\resources\dataFile.txt was successfully read
+2019-02-27 20:14:22 [main] INFO  com.epam.task.reader.TxtReader - File:src\main\resources\shortData.txt was successfully read
+2019-02-27 20:14:22 [main] INFO  epam.task.parser.impl.DataParserImpl - Parse was successful complete
+2019-02-27 20:14:22 [main] WARN  epam.task.parser.impl.DataParserImpl - Incorrect input data:0.94 0 poi; 0 -1 14; 1.732 4 0; 3 1 21;
+2019-02-27 20:14:22 [main] WARN  com.epam.task.creator.Creator - Incorrect data:0.94 0 poi; 0 -1 14; 1.732 4 0; 3 1 21;
+2019-02-27 20:14:22 [main] INFO  epam.task.parser.impl.DataParserImpl - Parse was successful complete
+2019-02-27 20:14:22 [main] INFO  com.epam.task.creator.Creator - Tetrahedrons was created.
+2019-02-27 20:14:22 [main] INFO  epam.task.parser.impl.DataParserImpl - Parse was successful complete
+2019-02-27 20:14:22 [main] WARN  epam.task.parser.impl.DataParserImpl - Incorrect input data:0.577 0 1.634wwe; 0 -1 0; 1.732 0 0; 0 1 0
+2019-02-27 20:14:23 [main] WARN  com.epam.task.reader.TxtReader - File:resources\another.txt  is not exist or empty
+2019-02-27 20:14:23 [main] INFO  com.epam.task.reader.TxtReader - File:src\main\resources\dataFile.txt was successfully read
+2019-02-27 20:16:07 [main] INFO  com.epam.task.reader.TxtReader - File:src\main\resources\shortData.txt was successfully read
+2019-02-27 20:16:07 [main] INFO  epam.task.parser.impl.DataParserImpl - Parse was successful complete
+2019-02-27 20:16:07 [main] WARN  epam.task.parser.impl.DataParserImpl - Incorrect input data:0.94 0 poi; 0 -1 14; 1.732 4 0; 3 1 21;
+2019-02-27 20:16:07 [main] WARN  com.epam.task.creator.Creator - Incorrect data:0.94 0 poi; 0 -1 14; 1.732 4 0; 3 1 21;
+2019-02-27 20:16:07 [main] INFO  epam.task.parser.impl.DataParserImpl - Parse was successful complete
+2019-02-27 20:16:07 [main] INFO  com.epam.task.creator.Creator - Tetrahedrons was created.
+2019-02-27 20:17:26 [main] INFO  com.epam.task.reader.TxtReader - File:src\main\resources\shortData.txt was successfully read
+2019-02-27 20:17:26 [main] INFO  epam.task.parser.impl.DataParserImpl - Parse was successful complete
+2019-02-27 20:17:26 [main] WARN  epam.task.parser.impl.DataParserImpl - Incorrect input data:0.94 0 poi; 0 -1 14; 1.732 4 0; 3 1 21;
+2019-02-27 20:17:26 [main] WARN  com.epam.task.creator.Creator - Incorrect data:0.94 0 poi; 0 -1 14; 1.732 4 0; 3 1 21;
+2019-02-27 20:17:26 [main] INFO  epam.task.parser.impl.DataParserImpl - Parse was successful complete
+2019-02-27 20:17:26 [main] INFO  com.epam.task.creator.Creator - Tetrahedrons was created.
+2019-02-27 20:17:26 [main] INFO  epam.task.parser.impl.DataParserImpl - Parse was successful complete
+2019-02-27 20:17:26 [main] WARN  epam.task.parser.impl.DataParserImpl - Incorrect input data:0.577 0 1.634wwe; 0 -1 0; 1.732 0 0; 0 1 0
+2019-02-27 20:17:27 [main] WARN  com.epam.task.reader.TxtReader - File:resources\another.txt  is not exist or empty
+2019-02-27 20:17:27 [main] INFO  com.epam.task.reader.TxtReader - File:src\main\resources\dataFile.txt was successfully read
+2019-02-27 20:32:31 [main] INFO  com.epam.task.reader.TxtReader - File:src\main\resources\shortData.txt was successfully read
+2019-02-27 20:32:31 [main] INFO  epam.task.parser.impl.DataParserImpl - Parse was successful complete
+2019-02-27 20:32:31 [main] WARN  epam.task.parser.impl.DataParserImpl - Incorrect input data:0.94 0 poi; 0 -1 14; 1.732 4 0; 3 1 21;
+2019-02-27 20:32:31 [main] WARN  com.epam.task.creator.Creator - Incorrect data:0.94 0 poi; 0 -1 14; 1.732 4 0; 3 1 21;
+2019-02-27 20:32:31 [main] INFO  epam.task.parser.impl.DataParserImpl - Parse was successful complete
+2019-02-27 20:32:31 [main] INFO  com.epam.task.creator.Creator - Tetrahedrons was created.
+2019-02-27 20:32:31 [main] INFO  epam.task.parser.impl.DataParserImpl - Parse was successful complete
+2019-02-27 20:32:31 [main] WARN  epam.task.parser.impl.DataParserImpl - Incorrect input data:0.577 0 1.634wwe; 0 -1 0; 1.732 0 0; 0 1 0
+2019-02-27 20:32:31 [main] WARN  com.epam.task.reader.TxtReader - File:resources\another.txt  is not exist or empty
+2019-02-27 20:32:31 [main] INFO  com.epam.task.reader.TxtReader - File:src\main\resources\dataFile.txt was successfully read
+2019-02-27 20:42:48 [main] INFO  com.epam.task.reader.TxtReader - File:src\main\resources\shortData.txt was successfully read
+2019-02-27 20:42:48 [main] INFO  epam.task.parser.impl.DataParserImpl - Parse was successful complete
+2019-02-27 20:42:48 [main] WARN  epam.task.parser.impl.DataParserImpl - Incorrect input data:0.94 0 poi; 0 -1 14; 1.732 4 0; 3 1 21;
+2019-02-27 20:42:48 [main] WARN  com.epam.task.creator.Creator - Incorrect data:0.94 0 poi; 0 -1 14; 1.732 4 0; 3 1 21;
+2019-02-27 20:42:48 [main] INFO  epam.task.parser.impl.DataParserImpl - Parse was successful complete
+2019-02-27 20:42:48 [main] INFO  com.epam.task.creator.Creator - Tetrahedrons was created.
+2019-02-27 20:42:48 [main] INFO  epam.task.parser.impl.DataParserImpl - Parse was successful complete
+2019-02-27 20:42:48 [main] WARN  epam.task.parser.impl.DataParserImpl - Incorrect input data:0.577 0 1.634wwe; 0 -1 0; 1.732 0 0; 0 1 0
+2019-02-27 20:42:49 [main] INFO  com.epam.task.observer.Observer - 
+=======================================================================
+Masha, we have some changes: Tetrahedron{id=101, pointOne=Point{x=0.0, y=0.0, z=0.0}, pointTwo=Point{x=0.0, y=-1.0, z=0.0}, pointThree=Point{x=1.732, y=0.0, z=0.0}, pointFour=Point{x=0.0, y=1.0, z=0.0}, edge=1.0}
+=======================================================================
+
+2019-02-27 20:42:49 [main] WARN  com.epam.task.reader.TxtReader - File:resources\another.txt  is not exist or empty
+2019-02-27 20:42:49 [main] INFO  com.epam.task.reader.TxtReader - File:src\main\resources\dataFile.txt was successfully read
+2019-02-27 20:42:49 [main] INFO  com.epam.task.observer.Observer - 
+=======================================================================
+Masha, we have some changes: Tetrahedron{id=101, pointOne=Point{x=0.0, y=-5.0, z=0.0}, pointTwo=Point{x=0.0, y=-1.0, z=0.0}, pointThree=Point{x=1.732, y=0.0, z=0.0}, pointFour=Point{x=0.0, y=1.0, z=0.0}, edge=4.0}
+=======================================================================
+
+2019-02-27 20:46:33 [main] INFO  com.epam.task.reader.TxtReader - File:src\main\resources\shortData.txt was successfully read
+2019-02-27 20:46:33 [main] INFO  epam.task.parser.impl.DataParserImpl - Parse was successful complete
+2019-02-27 20:46:33 [main] WARN  epam.task.parser.impl.DataParserImpl - Incorrect input data:0.94 0 poi; 0 -1 14; 1.732 4 0; 3 1 21;
+2019-02-27 20:46:33 [main] WARN  com.epam.task.creator.Creator - Incorrect data:0.94 0 poi; 0 -1 14; 1.732 4 0; 3 1 21;
+2019-02-27 20:46:33 [main] INFO  epam.task.parser.impl.DataParserImpl - Parse was successful complete
+2019-02-27 20:46:33 [main] INFO  com.epam.task.creator.Creator - Tetrahedrons was created.
+2019-02-27 20:46:33 [main] INFO  epam.task.parser.impl.DataParserImpl - Parse was successful complete
+2019-02-27 20:46:33 [main] WARN  epam.task.parser.impl.DataParserImpl - Incorrect input data:0.577 0 1.634wwe; 0 -1 0; 1.732 0 0; 0 1 0
+2019-02-27 20:46:33 [main] INFO  com.epam.task.observer.Observer - 
+=======================================================================
+Masha, we have some changes: Tetrahedron{id=101, pointOne=Point{x=0.0, y=0.0, z=0.0}, pointTwo=Point{x=0.0, y=-1.0, z=0.0}, pointThree=Point{x=1.732, y=0.0, z=0.0}, pointFour=Point{x=0.0, y=1.0, z=0.0}, edge=1.0}
+=======================================================================
+2019-02-27 20:46:34 [main] WARN  com.epam.task.reader.TxtReader - File:resources\another.txt  is not exist or empty
+2019-02-27 20:46:34 [main] INFO  com.epam.task.reader.TxtReader - File:src\main\resources\dataFile.txt was successfully read
+2019-02-27 20:46:34 [main] INFO  com.epam.task.observer.Observer - 
+=======================================================================
+Masha, we have some changes: Tetrahedron{id=101, pointOne=Point{x=0.0, y=-5.0, z=0.0}, pointTwo=Point{x=0.0, y=-1.0, z=0.0}, pointThree=Point{x=1.732, y=0.0, z=0.0}, pointFour=Point{x=0.0, y=1.0, z=0.0}, edge=4.0}
+=======================================================================
+2019-02-27 21:36:53 [main] INFO  com.epam.task.reader.TxtReader - File:src\main\resources\shortData.txt was successfully read
+2019-02-27 21:36:54 [main] INFO  epam.task.parser.impl.DataParserImpl - Parse was successful complete
+2019-02-27 21:36:54 [main] WARN  epam.task.parser.impl.DataParserImpl - Incorrect input data:0.94 0 poi; 0 -1 14; 1.732 4 0; 3 1 21;
+2019-02-27 21:36:54 [main] WARN  com.epam.task.creator.Creator - Incorrect data:0.94 0 poi; 0 -1 14; 1.732 4 0; 3 1 21;
+2019-02-27 21:36:54 [main] INFO  epam.task.parser.impl.DataParserImpl - Parse was successful complete
+2019-02-27 21:36:54 [main] INFO  com.epam.task.creator.Creator - Tetrahedrons was created.
+2019-02-27 21:36:54 [main] INFO  epam.task.parser.impl.DataParserImpl - Parse was successful complete
+2019-02-27 21:36:54 [main] WARN  epam.task.parser.impl.DataParserImpl - Incorrect input data:0.577 0 1.634wwe; 0 -1 0; 1.732 0 0; 0 1 0
+2019-02-27 21:36:54 [main] INFO  com.epam.task.observer.Observer - 
+=======================================================================
+Masha, we have some changes: Tetrahedron{id=101, pointOne=Point{x=0.0, y=0.0, z=0.0}, pointTwo=Point{x=0.0, y=-1.0, z=0.0}, pointThree=Point{x=1.732, y=0.0, z=0.0}, pointFour=Point{x=0.0, y=1.0, z=0.0}, edge=1.0}
+=======================================================================
+2019-02-27 21:36:54 [main] WARN  com.epam.task.reader.TxtReader - File:resources\another.txt  is not exist or empty
+2019-02-27 21:36:54 [main] INFO  com.epam.task.reader.TxtReader - File:src\main\resources\dataFile.txt was successfully read
+2019-02-27 21:36:54 [main] INFO  com.epam.task.observer.Observer - 
+=======================================================================
+Masha, we have some changes: Tetrahedron{id=101, pointOne=Point{x=0.0, y=-5.0, z=0.0}, pointTwo=Point{x=0.0, y=-1.0, z=0.0}, pointThree=Point{x=1.732, y=0.0, z=0.0}, pointFour=Point{x=0.0, y=1.0, z=0.0}, edge=4.0}
+=======================================================================
+2019-02-27 21:41:08 [main] INFO  com.epam.task.reader.TxtReader - File:src\main\resources\shortData.txt was successfully read
+2019-02-27 21:41:08 [main] INFO  epam.task.parser.impl.DataParserImpl - Parse was successful complete
+2019-02-27 21:41:08 [main] WARN  epam.task.parser.impl.DataParserImpl - Incorrect input data:0.94 0 poi; 0 -1 14; 1.732 4 0; 3 1 21;
+2019-02-27 21:41:08 [main] WARN  com.epam.task.creator.Creator - Incorrect data:0.94 0 poi; 0 -1 14; 1.732 4 0; 3 1 21;
+2019-02-27 21:41:08 [main] INFO  epam.task.parser.impl.DataParserImpl - Parse was successful complete
+2019-02-27 21:41:08 [main] INFO  com.epam.task.creator.Creator - Tetrahedrons was created.
+2019-02-27 21:41:08 [main] INFO  epam.task.parser.impl.DataParserImpl - Parse was successful complete
+2019-02-27 21:41:08 [main] WARN  epam.task.parser.impl.DataParserImpl - Incorrect input data:0.577 0 1.634wwe; 0 -1 0; 1.732 0 0; 0 1 0
+2019-02-27 21:41:08 [main] INFO  com.epam.task.observer.Observer - 
+=======================================================================
+Masha, we have some changes: Tetrahedron{id=101, pointOne=Point{x=0.0, y=0.0, z=0.0}, pointTwo=Point{x=0.0, y=-1.0, z=0.0}, pointThree=Point{x=1.732, y=0.0, z=0.0}, pointFour=Point{x=0.0, y=1.0, z=0.0}, edge=1.0}
+=======================================================================
+2019-02-27 21:41:09 [main] WARN  com.epam.task.reader.TxtReader - File:resources\another.txt  is not exist or empty
+2019-02-27 21:41:09 [main] INFO  com.epam.task.reader.TxtReader - File:src\main\resources\dataFile.txt was successfully read
+2019-02-27 21:41:09 [main] INFO  com.epam.task.observer.Observer - 
+=======================================================================
+Masha, we have some changes: Tetrahedron{id=101, pointOne=Point{x=0.0, y=-5.0, z=0.0}, pointTwo=Point{x=0.0, y=-1.0, z=0.0}, pointThree=Point{x=1.732, y=0.0, z=0.0}, pointFour=Point{x=0.0, y=1.0, z=0.0}, edge=4.0}
+=======================================================================
